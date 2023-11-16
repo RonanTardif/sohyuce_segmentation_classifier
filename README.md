@@ -1,7 +1,7 @@
 # Synthèse du projet
 
 ## Contexte
-Dans le cadre de l'analyse des données de segmentation client, l'objectif était de déterminer la catégorie (Var_1) pour chaque client en utilisant un ensemble restreint de variables explicatives. La problématique étant orientée marketing, l'accent a été mis sur la livraison de résultats explicatifs et facilement interprétables par les équipes métier.
+Dans le cadre de l'analyse des données de segmentation client, l'objectif était de déterminer le segment *(variable Var_1)* pour chaque client en utilisant un ensemble restreint de variables explicatives. La problématique étant orientée marketing, l'accent a été mis sur la livraison de résultats explicatifs et facilement interprétables par les équipes métier.
 
 ## Méthodologie
 1. **Exploration des données :** Les données ont été chargées et inspectées, identifiant des variables telles que le genre, le statut matrimonial, le niveau d'éducation, la profession, etc.
